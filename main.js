@@ -1,5 +1,5 @@
 
-//desafio #2
+// desafio #2
 const valor = ("Digite o valor desejado: ");
 
 function fibonacciSequence(n) {
@@ -12,4 +12,4 @@ function fibonacciSequence(n) {
     }
   }
   console.log(fibonacciSequence)
-  
+
